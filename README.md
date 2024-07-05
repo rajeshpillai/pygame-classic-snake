@@ -34,6 +34,12 @@ Activate the virtual environment:
     On macOS and Linux:
         - source snake_game_venv/bin/activate
 
-# Install dependencies:
+## Install dependencies:
 
 pip install -r requirements.txt
+
+## Running the Game
+
+With the virtual environment activated and dependencies installed, you can run the Snake game:
+
+python snake_game.py
